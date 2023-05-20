@@ -1,0 +1,1 @@
+g++ -o laba *.cpp etc/*.cpp structures/*.cpp tasks/*.cpp
