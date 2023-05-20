@@ -1,3 +1,3 @@
-# Lab8
-lab 8 for BSUIR 2
-sem
+# Сборка
+1. buildCmake.bat
+2. buildG++.bat
